@@ -17,7 +17,7 @@ package heaps;
 public interface Heap {
     
     /**
-     * 
+     * ddd
      * @return the top element in the heap, the one with lowest key for min-heap or with
      * the highest key for max-heap
      * @throws Exception if heap is empty
